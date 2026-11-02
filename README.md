@@ -82,7 +82,7 @@ Further analysis using customer feedback, checkout behavior, shipping cost data,
 
 ### Customer Funnel Analysis
 
-![Customer Funnel Analysis](images/customer-funnel.png)
+![Customer Funnel Analysis](https://github.com/starmaster999/seoul-sweets-customer-journey-analysis/blob/main/Screenshot%202026-11-02%20115347.png)
 
 ## Conclusion
 
